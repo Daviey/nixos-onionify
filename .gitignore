@@ -1,0 +1,13 @@
+# Nix-specific
+result
+result-*
+
+# Backup files
+*~
+\#*\#
+.\#*
+
+# OS-specific
+.DS_Store
+.directory
+.Trash-*
